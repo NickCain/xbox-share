@@ -1,0 +1,12 @@
+.App {
+}
+
+.App .header {
+    padding: 0 1rem;
+}
+
+.App .spinner-wrapper {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
